@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
@@ -14,6 +16,12 @@ public class Main {
         System.out.println(Teen.hasTeen(22, 23, 34));
         System.out.println(Teen.hasTeen(14, 16, 20));
         System.out.println(Teen.hasTeen(12, 21, 8));
+
+        System.out.println("Cat");
+        System.out.println(Cat.isCatPlaying(true, 10));
+        System.out.println(Cat.isCatPlaying(false, 36));
+        System.out.println(Cat.isCatPlaying(false, 35));
+
     }
 
 
