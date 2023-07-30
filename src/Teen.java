@@ -6,3 +6,5 @@ public class Teen {
                 || (age3 >= 13 && age3 <= 19);
     }
 }
+
+//commit için deneme
