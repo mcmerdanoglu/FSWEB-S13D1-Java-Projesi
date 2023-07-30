@@ -6,3 +6,5 @@ public static boolean isCatPlaying (boolean isSummer, int temp) {
     else {return false;}
     }
 }
+
+//commit tryout
