@@ -22,6 +22,13 @@ public class Main {
         System.out.println(Cat.isCatPlaying(false, 36));
         System.out.println(Cat.isCatPlaying(false, 35));
 
+        System.out.println("Rectangle");
+        System.out.println(Rectangle.area(5.0, 4.0));
+        System.out.println(Rectangle.area(-1.0, 4.0));
+
+        System.out.println("Circle");
+        System.out.println(Circle.area(5.0));
+        System.out.println(Circle.area(-1.0));
     }
 
 
